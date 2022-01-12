@@ -1,15 +1,28 @@
 {
-    "blogs": [{
-            "title": "My First Blog",
-            "body": "Add some text",
-            "author": "Mario",
-            "id": 1
-        },
-        {
-            "title": "My Second Blog",
-            "body": "Add some text again",
-            "author": "Yoshi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Add some text",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Add some text again",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "FIrst additional Blog",
+      "body": "this is the blog of the year",
+      "author": "Mario",
+      "id": 3
+    },
+    {
+      "title": "Time Travel",
+      "body": "DOing big things daily in React fam",
+      "author": "mario",
+      "id": 4
+    }
+  ]
 }
